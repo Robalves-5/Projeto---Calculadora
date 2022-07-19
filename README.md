@@ -1,3 +1,3 @@
 # Projeto - Calculadora
  
-Calculadora com equações de soma, subtração, multiplicação e divisão.
+Calculadora com equações de Soma, Subtração, Multiplicação e Divisão.
